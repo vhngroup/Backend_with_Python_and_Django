@@ -1,0 +1,57 @@
+Los operadores nos permiten trabajar con valores y generar nuevos valores por medio de estas operaciones.
+
+Existen muchos operadores básicos,
+
+(+) Suma
+(-) Resta
+(asterisco) Multiplicación
+(/) División
+(//) División de enteros
+(%) Operador de módulo
+(doble asterisco) Potencias
+(>) Mayor que
+(<) Menor que
+(==) Igual
+(>=) Mayor igual
+(<=) Menor igual
+¿Qué operadores matemáticos te parecen más útiles?
+
+¿En qué orden se evalúan las matemáticas operaciones complejas?
+
+PEMDAS
+Paréntesis xD
+Exponentes
+Multiplicación / División
+Adición / Sustracción
+Una forma fácil de recordar éste orden es usando el acrónimo PEMDAS (ParentesisExponentesMultiplicaciónDivisiónAdiciónSustracción)
+Valores y Tipos
+Los tipos le permiten a Python saber cuál es el resultado de aplicar determinada operación, los tipos básicos son:
+Integer <int>
+Float <float>
+String <str>
+Boolean <bool>
+Para revisar de qué tipo es un dato puedes usar la función type.
+Ejemplos:
+type(2) - retorna int
+type('Hola') - retorna str
+Recuerda que tu código debe ser claro, para permitir que otros programadores lo puedan leer.
+
+Declarar variables y expresiones
+Las variables nos permiten guardar valores, permitiéndonos reutilizarlos en diferentes partes del código y haciendo nuestros programas más legibles.
+
+El valor que contiene una variable puede ser reasignado, significa que podemos asignarle diferentes valores a una misma variable.
+
+Las variables tienen algunas limitantes, por ejemplo
+
+Tienen que tener un nombre significativo, es decir, que nos digan qué están haciendo.
+No podemos usar palabras reservadas del lenguaje como nombres para nuestras variables (por ejemplo class, false, none, true).
+Para definir una variable escribes el nombre que quieres asignarle y con = defines el valor que va a almacenar, por ejemplo:
+
+pi = 3.14159
+radio =3
+area = pi * radio**2
+print(area)
+
+Recuerda:
+Todos los programas de Python deben guardarse con extensión .py
+Para darle soporte a acentos en nuestros programas debemos usar la línea # -*- coding: utf-8 -*-
