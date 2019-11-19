@@ -17,7 +17,7 @@ Se inicia desde lo mas basico de como usar python, hasta analisys de datos para 
 
 ## Datos de Contacto
 
-Victor Noguera – [@victor__noguera](https://twitter.com/victor__noguera) - [Platzi](https://platzi.com/@victor__noguera) – info@vhngroup.com
+Victor Noguera – [Twitter @victor__noguera](https://twitter.com/victor__noguera) - [Perfil Platzi](https://platzi.com/@victor__noguera) – [Mail](info@vhngroup.com)
 
 Distribuido bajo licencia MIT. Ver ``LICENSE`` para mas información.
 
