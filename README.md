@@ -2,6 +2,8 @@
 Memorias y ejercicios realizados durante la ejecuiòn del curso de Desarrollo Backend Con Python y Django tomado en @platzi
 Se inicia desde lo mas basico de como usar python, hasta analisys de datos para big data y uso de entorno web.
 
+![Ruta de aprendizaje](https://github.com/vhngroup/Admincco/blob/master/images/django.jpg)
+
 ## Datos tecnicos
 
 * Python versión 3.8.0 
