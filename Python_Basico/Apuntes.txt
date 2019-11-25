@@ -76,3 +76,43 @@ Operadores lógicos:
 and
 or
 not
+
+El Zen de Python
+Hermoso es mejor que feo.
+Explícito es mejor que implícito.
+Simple es mejor que complejo.
+Complejo es mejor que complicado.
+Sencillo es mejor que anidado.
+Escaso es mejor que denso.
+La legibilidad cuenta.
+Los casos especiales no son lo suficientemente especiales para romper las reglas.
+Lo práctico le gana a la pureza.
+Los errores no debe pasar en silencio.
+A menos que sean silenciados.
+En cara a la ambigüedad, rechazar la tentación de adivinar.
+Debe haber una - y preferiblemente sólo una - manera obvia de hacerlo.
+Aunque esa manera puede no ser obvia en un primer momento a menos que seas holandés.
+Ahora es mejor que nunca.
+Aunque “nunca” es a menudo mejor que “ahora mismo”.
+Si la aplicación es difícil de explicar, es una mala idea.
+Si la aplicación es fácil de explicar, puede ser una buena idea.
+Los espacios de nombres son una gran idea ¡hay que hacer más de eso!
+
+Un string es una secuencia de caracteres, donde cada caracter tiene un indice que inicia en cero, por ejemplo
+
+my_string = 'platzi'
+
+my_string[0] # p
+my_string[1] # l
+my_string[2] # a
+my_string[3] # t
+my_string[4] # z
+my_string[5] # i
+Para conocer la longitud de un string podemos usar la funcion len
+
+len(my_string) # 6
+Los string tienen algunos métodos útiles cómo:
+
+my_string.upper() # retorna el string en máyusculas
+my_string.lower() # retorna el string en minúscula
+my_string.find('F') # retorna el índice donde se encuentra
