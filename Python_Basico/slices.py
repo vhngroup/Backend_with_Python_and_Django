@@ -1,0 +1,7 @@
+my_string = "platzi"
+my_string[1] #trae la el segundo valor "l"
+my_string[1:] #trae la "latzi"
+my_string[1:3] #trae la "la"
+my_string[1:5] #trae la "latz"
+my_string[1:6:2] #Recorre el String en saltos de dos palabras, trae "lti"
+my_string[::-1] #invierte el orden del string y pone la primera letra como ultima trae "iztalp"
